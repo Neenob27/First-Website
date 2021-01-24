@@ -1,0 +1,45 @@
+.container {
+    width: 80%;
+    margain:0 auto;
+}
+.header {
+    background-color: rgb(41, 207, 171);
+}
+
+.logo {
+    float: left;
+}
+
+nav {
+    color: rgb(252, 252, 252); 
+    font-family: 'Raleway', sans-serif;
+    right: 100%;
+    margin: auto;
+    float:right;
+    }
+nav ul{
+    padding: 0%;
+    margain: 0%;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 50px;
+    padding: top 25px; ;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    text-decoration-color: rgb(252, 252, 252);
+}
+p {
+    color: blue;
+}
+
+#copyright {
+    margin-top: 100px;
+}
+
+
+n
